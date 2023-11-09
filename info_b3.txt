@@ -1,1 +1,2 @@
-creado en rama tarea_b
+soy archivo info:b3
+estoy en local
