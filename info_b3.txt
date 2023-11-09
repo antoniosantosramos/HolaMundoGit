@@ -1,2 +1,4 @@
-soy archivo info:b3
+soy archivo info_b3
+y yo en remoto
 estoy en local
+y yo en remoto
